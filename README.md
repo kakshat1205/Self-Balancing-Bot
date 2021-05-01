@@ -1,5 +1,11 @@
+
+
 # self-balancing-bot
 
+https://user-images.githubusercontent.com/49076977/116781916-ae900f80-aaa3-11eb-806b-5ca453af9ed7.mp4
+
+
+## Components Required
 - Hardware required:
 - Arduino Uno
 - Mpu 6050
